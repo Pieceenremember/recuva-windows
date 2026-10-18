@@ -18,11 +18,13 @@ Recuva · MoggyDay · 1.55 · v1.55.133
 
 MoggyDay keeps one stable URL for Recuva: EN / RU. Recuva on Windows 10/11 x64. 25 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Open the site to download:** [EN](https://moggydayprogram.com/en/programs/recuva) · [RU](https://moggydayprogram.com/programs/recuva)
+
 ## Download
 
 1. Open [Recuva EN](https://moggydayprogram.com/en/programs/recuva) or [Recuva RU](https://moggydayprogram.com/programs/recuva).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
